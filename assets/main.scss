@@ -3,13 +3,12 @@
 
 $text-color: #46433A;
 $anchor-text-color: #CE534D;
-#$background-color: #E0FFFF;
-$background-image: url("clouds.png");
+$background-color: #E0FFFF;
 
 body {
 	font-family: 'Vollkorn', serif;
 	color: $text-color;
-	background-image: $background-image;
+	background-color: $background-color;
 }
 
 header,

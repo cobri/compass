@@ -1,3 +1,3 @@
-# Documentation
-
-Compass is a Jekyll theme, http://excentris.net/compass/
+Documentation:
+Personal webpage.
+Design by: http://excentris.net/compass/

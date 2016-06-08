@@ -5,7 +5,7 @@ baseurl: ''
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/scipic.png"
+  logo: "/images/scipic-big.png"
   # author will appear under the avatar (optional)
   author: "Carol O'Brien"
   # tagline will appear under the title (optional)
